@@ -1,10 +1,9 @@
-# A python bot for r/place
-
-## USAGE
+## Python Bot For /r/Kenya
 
 ```
 
-python3 pix.py <image.png> --location x y [-o data.json]
-python3 placebot.py --help # see options
+# Clone or download
+
+$ (python) placer.py kenya.png 973 828 [username] [password]
 
 ```
